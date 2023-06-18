@@ -1,2 +1,3 @@
 Hello Simplilearn
 This is new commit after restore
+Trialing of the git which I learnt
